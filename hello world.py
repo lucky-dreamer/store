@@ -8,3 +8,4 @@ def main():
 if __name__=='__main__':
   main()
 # issue类似于pullrequest
+# github-pages可以用于网页建站
