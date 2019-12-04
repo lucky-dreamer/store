@@ -7,3 +7,5 @@ def main():
   # 有些开源项目可以直接在网页上改，不用下载到本地，更方便
 if __name__=='__main__':
   main()
+# issue类似于pullrequest
+# github-pages可以用于网页建站，服务器不限制储存空间
