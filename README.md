@@ -1,2 +1,2 @@
 # store
-practise for github
+basic practise for github
